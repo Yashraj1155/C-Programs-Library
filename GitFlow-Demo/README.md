@@ -28,3 +28,19 @@ To understand Git branching, collaboration,
 
 version control and software release management.
 
+
+
+\## Hotfix - Bug 4
+
+
+
+Bug: Missing hotfix documentation.
+
+
+
+Fix: Added documentation for the hotfix workflow.
+
+
+
+Status: Fixed
+
