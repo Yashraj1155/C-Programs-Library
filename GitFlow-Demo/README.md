@@ -28,3 +28,23 @@ To understand Git branching, collaboration,
 
 version control and software release management.
 
+
+
+\## New Feature
+
+
+
+GitFlow Workflow Demonstration
+
+
+
+This project demonstrates:
+
+\- Feature development
+
+\- Branch management
+
+\- Release preparation
+
+\- Hotfix management
+
