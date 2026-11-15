@@ -43,4 +43,21 @@ Fix: Added documentation for the hotfix workflow.
 
 
 Status: Fixed
+\## New Feature
+
+
+
+GitFlow Workflow Demonstration
+
+
+
+This project demonstrates:
+
+\- Feature development
+
+\- Branch management
+
+\- Release preparation
+
+\- Hotfix management
 
