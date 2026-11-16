@@ -49,4 +49,4 @@ For other programs, replace the filename.
     git push
 
 ## Purpose
-To practice C programming and understand version control using Git and GitHub.
+To practice C programming and understand version control using Git and GitHub.Testing Jenkins automatic build
